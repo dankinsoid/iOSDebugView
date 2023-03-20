@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DebugView'
-  s.version          = '0.0.1'
+  s.version          = '0.1.0'
   s.summary          = 'A short description of DebugView.'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
